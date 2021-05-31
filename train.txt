@@ -1,0 +1,16 @@
+15
+chongqing wuhan 22: 0 22:50 90 T106
+chongqing beijing 18: 0 18:20 700 T100
+changsha beijing 19:20 21:20 75 T102
+changsha nanchang 18: 0 19: 0 80 T101
+nanchang nanchang  0: 0 19:50 300 T113
+nanchang wuhan 19: 0 20: 0 800 T107
+beijing shanghai 22:10 22:40 200 T112
+beijing ningxia 19: 0 19:20 200 T108
+beijing nanchang 17:40 18:50 70 T103
+shanghai xianggang 23: 0 23:30 300 T104
+sichuan chongqing 21: 0 21:30 210 T111
+ningxia xizang 19:30 20: 0 150 T109
+xizang sichuan 20:10 20:50 130 T110
+xianggang changsha 14: 0 15: 0 80 T105
+ningbo wuhan 17: 0 17:30 80 T999

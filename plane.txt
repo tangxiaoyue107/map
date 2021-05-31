@@ -1,0 +1,5 @@
+4
+chongqing nanchang 20: 9 21:23 145 DS3400
+chongqing beijing 18: 0 21: 0 800 DS7822
+beijing changsha 13: 0 15:23 234 CA2345
+beijing nanchang  8:21  9:39 567 TC1209
